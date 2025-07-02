@@ -74,3 +74,17 @@ matplotlib
 
 scikit-learn
 
+## 🚀 How to Run
+1. Clone this repo or open the notebook in Google Colab
+
+
+2. Upload your iris.csv file if needed
+
+
+3. Run the notebook cell by cell to see how everything works!
+
+ ## 📌 License
+
+This project is open-source and free to use under the MIT License.  
+
+
