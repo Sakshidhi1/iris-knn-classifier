@@ -64,7 +64,7 @@ Visualizing the boundaries gives great insight into how the model makes decision
 
 You'll need:
 
-Python 3.x
+Python 3.9
 
 pandas
 
